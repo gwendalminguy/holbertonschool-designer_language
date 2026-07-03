@@ -116,7 +116,7 @@ Here are some improvement ideas based on the issues encountered in the **User Jo
        alt="Sketch - Main View"
        width="750">
   <br>
-  <sub><strong>Sketch 2.</strong> Annotated sketch view with some design improvement ideas (accessible autoplay button, column settings button, enriched placeholders).</sub>
+  <sub><strong>Sketch 2.</strong> Annotated sketch view with some design improvement ideas (accessible autoplay, column settings, enriched placeholders).</sub>
 </p>
 
 <br>
@@ -148,7 +148,7 @@ The following mockups illustrate the proposed interface after applying the impro
        alt="Mockup - Main View"
        width="750">
   <br>
-  <sub><strong>Figure 2.</strong> Clean mockup view with the design improvement ideas (accessible autoplay button, column settings button, enriched placeholders).</sub>
+  <sub><strong>Figure 2.</strong> Clean mockup view with the design improvement ideas (accessible autoplay, column settings, enriched placeholders).</sub>
 </p>
 
 <br>
